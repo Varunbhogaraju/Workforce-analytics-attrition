@@ -1,0 +1,11 @@
+{
+  "monthly_income_t_test": {
+    "t_statistic": -7.482621586644742,
+    "p_value": 4.4335886282860673e-13
+  },
+  "overtime_chi_square": {
+    "chi2": 87.56429365828768,
+    "p_value": 8.15842372153832e-21,
+    "degrees_of_freedom": 1
+  }
+}

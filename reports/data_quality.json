@@ -1,0 +1,11 @@
+{
+  "rows": 1470,
+  "columns": 35,
+  "duplicates": 0,
+  "missing_cells": 0,
+  "target": "Attrition",
+  "target_distribution": {
+    "No": 1233,
+    "Yes": 237
+  }
+}

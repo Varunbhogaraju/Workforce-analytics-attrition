@@ -1,0 +1,2 @@
+# Add this package to your existing requirements.txt
+google-genai>=1.0.0
